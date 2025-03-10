@@ -5,6 +5,7 @@ def hello():
 
     print("测试改动2版本1")
     print("测试改动2版本2")
+    print("测试改动2版本3")
 
 if '__main__' == __name__:
     hello()
