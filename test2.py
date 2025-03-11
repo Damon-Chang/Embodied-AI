@@ -9,11 +9,11 @@ def hello():
     print("测试改动2版本4")
 
     print("在llm2分支上改动代码")
-<<<<<<< HEAD
+
     print("在main分支上改动代码2")
-=======
+
     print("在llm2分支上改动代码")
->>>>>>> llm2
+
 
 if '__main__' == __name__:
     hello()
